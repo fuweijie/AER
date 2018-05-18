@@ -5,7 +5,7 @@ This is the version 1.0 code of the work :
   
 Of note, we use the FLANN package for approximate nearest neighbors searching. You can see http://www.cs.ubc.ca/research/flann/#download and find its implementing detials.
 
-The datasets used in our experiments can be download at https://drive.google.com/open?id=1ntyr9rOV17KNynDcBjtGLk8lWdPTuFLV
+The datasets used in our experiments can be download at https://drive.google.com/drive/folders/1ntyr9rOV17KNynDcBjtGLk8lWdPTuFLV
 
 If you have any problem when using this code, please feel free to contact us with fwj.edu@gmail.com
 
