@@ -3,7 +3,7 @@
 This is the version 1.0 code of the work :  
   Weijie Fu, Meng Wang, Shijie Hao, and Xindong Wu, 'Scalable Active Learning by Approximated Error Reduction', SIGKDD, 2018.
   
-Of note, we use the FLANN package for approximate nearest neighbors searching. You can see http://www.cs.ubc.ca/research/flann/#download and find its implementing detials.
+Of note, we use the FLANN package for approximate nearest neighbors searching. You can see http://www.cs.ubc.ca/research/flann/#download and find its implemention details.
 
 The datasets used in our experiments can be download at https://drive.google.com/drive/folders/1ntyr9rOV17KNynDcBjtGLk8lWdPTuFLV
 
